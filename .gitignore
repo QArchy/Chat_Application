@@ -75,3 +75,7 @@ outTmp/
 kotlin-ide/
 /gradlew
 /gradlew.bat
+/.idea/
+/gradle/
+/app/src/androidTest/
+/app/src/test/
